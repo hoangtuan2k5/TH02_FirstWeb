@@ -1,0 +1,13 @@
+[user]
+	name = hoangtuan2k5
+	email = tuan@hoangtuan.dev
+
+[core]
+	autocrlf = true
+	eol = crlf
+
+[init]
+	defaultBranch = main
+
+[pull]
+	rebase = false
